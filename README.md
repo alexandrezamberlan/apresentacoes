@@ -1,2 +1,2 @@
-# apresentacoes
-Repositório contendo apresentações, discussões, workshops e opiniões sobre os temas de interesse
+# Minhas apresentações 
+Repositório contendo apresentações, discussões, workshops, palestras e opiniões sobre os temas de meu interesse.
